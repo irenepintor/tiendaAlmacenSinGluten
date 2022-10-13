@@ -1,0 +1,24 @@
+.map h1{
+    display: flex;
+    justify-content: center;
+    margin: 5px 130px;
+    padding: 15px 20px;
+    background-color: #251605;
+    color: #d4a07e;
+    font-size: 25px;
+}
+.map h3{
+    display: flex;
+    justify-content: center;
+    margin: 10px 70px;
+    padding: 20px 20px;
+    background-color: #35230e;
+    color: #D0A98F;
+    font-size: 20px;
+}
+.map iframe{
+    padding-left: 70px;
+    padding-bottom: 10px;
+    width: 90vh;
+    height: 100vh;
+}

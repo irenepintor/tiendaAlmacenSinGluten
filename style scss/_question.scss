@@ -1,0 +1,28 @@
+.frequentquestion{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10vh 50vh;
+    .fquestion h2{
+        display: flex;
+        justify-content: center;
+        padding: 20px 20px;
+        background-color: #251605;
+        color: #d4a07e;
+        font-size: 25px;
+    }
+    h4{
+        display: flex;
+        justify-content: center;
+        padding: 20px 20px;
+        background-color: #35230e;
+        color: #d4a07e;
+        font-size: 20px;
+    }
+}
+.q{
+    font-size: 17px;
+    font-weight: 900;
+}
