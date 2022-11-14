@@ -1,6 +1,6 @@
 //Primera Pre Entrega
 
-/*const edad = 18;
+const edad = 18;
 
 const saludo = alert ("¡Bienvenido a Almacen Sin Gluten!");
 let edadIngresada = parseInt( prompt ("Ingrese su edad:"));
@@ -24,7 +24,7 @@ while (repetir){
         alert ("Eres menor de edad. No te podemos dejar comprar sin permiso de un adulto.");
         repetir = false;
     }
-}*/
+}
 
 //Segunda Pre Entrega
 
